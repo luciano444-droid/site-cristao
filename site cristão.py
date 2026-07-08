@@ -18,4 +18,4 @@ elif name in lista:
     st.write("Enfm ne manos foi isso POR ENQUANTO, espero q tenham achado resenha😓, adios manos sapecosos ")
 else:
     st.error("vc n é daqui abençoado🤨")
-    st.write("Por favor se retire; Se vc tem acesso ao site, por favor fale com o dev")
+    st.error("Por favor se retire; Se vc tem acesso ao site, por favor fale com o dev")
