@@ -5,7 +5,7 @@ st.divider()
 st.write("Bem vindos ao nosso site, por favor nos informe seu nome logo abaixo: ")
 #pergunta do nome do sapecoso
 name = st.text_input("QUAL SEU NOME? ")
-lista = ["LC", "Luciano", "Sunga", "Heloisa", "Emanuela", "Nenê"]
+lista = ["LC", "Luciano", "Sunga", "Heloisa", "Emanuele", "Nana", "Akyla", "Susu"]
 if name=="":
     pass
 elif name in lista:
